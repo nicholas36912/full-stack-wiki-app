@@ -9,8 +9,6 @@ Connecting to MongoDB
 API Endpoints
 Frontend
 
-
-
 Prerequisites
 Make sure you have the following installed on your machine:
 
